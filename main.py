@@ -8,7 +8,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle('Turbo Waffle')
+        self.setWindowTitle('Turbo_Waffle')
         self.setMinimumSize(QSize(800, 600))  # Минимальный размер
         # self.setFixedSize(QSize(800, 600))  # Фиксированный размер
 
